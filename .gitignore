@@ -1,4 +1,6 @@
 .obsidian
+.vscode
+.*
 node_modules
 .dendron.*
 build
