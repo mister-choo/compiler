@@ -1,0 +1,10 @@
+.obsidian
+node_modules
+.dendron.*
+build
+seeds
+dendron*
+*.png
+*.mp4
+*.MP4
+Изображения

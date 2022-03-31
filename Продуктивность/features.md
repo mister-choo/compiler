@@ -1,0 +1,12 @@
+- [x] Add new day to the end
+- [x] Add a range of days
+- [ ] Edit a day
+- [x] Configure the filling inside
+- [ ] Construct a table with all filled in tasks
+- [ ] Parse the general tasks and add from json file accordingly
+- [ ] Delete passed days and leave all the unchecked tasks
+- [ ] Pull of regular events from json file
+- [ ] notification part
+- [ ] compute statistics
+- [ ] move completed tasks fron the pull to another part
+- [ ] easy way to add progress quary
